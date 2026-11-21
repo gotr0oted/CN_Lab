@@ -20,33 +20,9 @@
 
 ## 📂 Repository Overview
 
-This repository contains **10 Computer Networks laboratory experiments**, focusing on network fundamentals, TCP/UDP socket programming, DNS, packet analysis, flow control, traffic shaping, and routing algorithms.
+This repository contains **Computer Networks laboratory practicals** covering networking fundamentals, TCP/UDP socket programming, DNS, packet analysis, flow control, traffic shaping, and routing algorithms.
 
-Each experiment demonstrates important networking concepts through practical implementation.
-
----
-
-## 🧪 List of Experiments
-
-### 🔹 [Experiment 01: Network Components & Topologies](./EXP01%20-%20Network%20Components%20%26%20Topologies)
-
-### 🔹 [Experiment 02: TCP Echo Server](./EXP02%20-%20TCP%20Echo%20Server)
-
-### 🔹 [Experiment 03: TCP Echo Client](./EXP03%20-%20TCP%20Echo%20Client)
-
-### 🔹 [Experiment 04: UDP Echo Client](./EXP04%20-%20UDP%20Echo%20Client)
-
-### 🔹 [Experiment 05: UDP Echo Server](./EXP05%20-%20UDP%20Echo%20Server)
-
-### 🔹 [Experiment 06: DNS Commands & Traceroute](./EXP06%20-%20DNS%20Commands%20%26%20Traceroute)
-
-### 🔹 [Experiment 07: Wireshark Protocol Analysis](./EXP07%20-%20Wireshark%20Protocol%20Analysis)
-
-### 🔹 [Experiment 08: Go-Back-N Sliding Window Protocol](./EXP08%20-%20Sliding%20Window%20Protocol%20%28Go-Back-N%29)
-
-### 🔹 [Experiment 09: Leaky Bucket & Token Bucket](./EXP09%20-%20Traffic%20Shaping%20%28Leaky%20%26%20Token%20Bucket%29)
-
-### 🔹 [Experiment 10: Distance Vector Routing Algorithm](./EXP10%20-%20Distance%20Vector%20Routing%20Algorithm)
+The practicals focus on understanding essential networking concepts through hands-on implementation.
 
 ---
 
@@ -64,9 +40,9 @@ Each experiment demonstrates important networking concepts through practical imp
 
 - Understand network devices and topologies.
 - Implement TCP and UDP communication.
-- Analyze packets using Wireshark.
+- Analyze network packets using Wireshark.
 - Study flow control and traffic shaping.
-- Understand network routing algorithms.
+- Understand routing algorithms.
 
 ---
 
