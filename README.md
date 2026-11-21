@@ -24,6 +24,21 @@ This repository contains **Computer Networks laboratory practicals** covering ne
 
 The practicals focus on understanding essential networking concepts through hands-on implementation.
 
+## 🧪 Practicals
+
+| No. | Topic | Materials |
+|---:|---|---|
+| 1 | Network components and topologies | [Practical 1](Practical%201/README.md) |
+| 2 | TCP echo server | [Practical 2](Practical%202/README.md) · [C source](Practical%202/tcp_server.c) |
+| 3 | TCP echo client | [Practical 3](Practical%203/README.md) · [C source](Practical%203/tcp_client.c) |
+| 4 | UDP echo client | [Practical 4](Practical%204/README.md) · [C source](Practical%204/udp_client.c) |
+| 5 | UDP echo server | [Practical 5](Practical%205/README.md) · [C source](Practical%205/udp_server.c) |
+| 6 | DNS utilities and traceroute | [Practical 6](Practical%206/README.md) |
+| 7 | Wireshark protocol analysis | [Practical 7](Practical%207/README.md) |
+| 8 | Go-Back-N sliding window | [Practical 8](Practical%208/README.md) · [C source](Practical%208/go_back_n.c) |
+| 9 | Leaky and token bucket shaping | [Practical 9](Practical%209/README.md) · [C source](Practical%209/traffic_shaping.c) |
+| 10 | Distance-vector routing | [Practical 10](Practical%2010/README.md) · [C source](Practical%2010/distance_vector.c) |
+
 ---
 
 ## 🛠️ Technologies Used
