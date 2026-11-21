@@ -39,6 +39,8 @@ The practicals focus on understanding essential networking concepts through hand
 | 9 | Leaky and token bucket shaping | [Practical 9](Practical%209/README.md) · [C source](Practical%209/traffic_shaping.c) |
 | 10 | Distance-vector routing | [Practical 10](Practical%2010/README.md) · [C source](Practical%2010/distance_vector.c) |
 
+> **Evidence note:** Screenshots in Practicals 2–10 are labeled Codex-run demonstrations captured from actual program and tool runs in this environment. They are not evidence that the student personally performed the experiments; replace them with your own captures for submission.
+
 ---
 
 ## 🛠️ Technologies Used
