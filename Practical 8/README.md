@@ -9,3 +9,9 @@ gcc -Wall -Wextra -pedantic go_back_n.c -o go_back_n
 ./go_back_n
 ```
 Enter a frame count, window size, and one sequence number to drop once (`-1` for no loss). Run with and without loss. Explain how acknowledgment advances after retransmission and use your actual output.
+
+## Screenshots
+
+### exp08
+
+![Practical 8 - exp08](screenshots/exp08.png)

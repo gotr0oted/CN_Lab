@@ -14,3 +14,9 @@ Capture application-layer traffic and inspect the transport and network headers 
 HTTPS payload is encrypted; packet analysis can show connection metadata and TLS records, not protected page contents. Capture only traffic you are authorized to inspect. Summarize a DNS exchange and a TCP/TLS flow from your own capture and include your own screenshot if required.
 
 The attached `demo-capture.pcapng` is a Codex-run loopback demonstration of the repository's TCP and UDP echo programs. It is not evidence that the student personally performed the experiment; create your own capture for submission.
+
+## Screenshots
+
+### exp07
+
+![Practical 7 - exp07](screenshots/exp07.png)

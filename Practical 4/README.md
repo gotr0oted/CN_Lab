@@ -12,3 +12,13 @@ Start Practical 5 first. Arguments are server IPv4 address and port (defaults: 1
 
 ## Procedure and result
 The client sends one line, waits up to five seconds for a datagram, and displays the reply. Test multiple messages and capture your own output. UDP does not guarantee delivery.
+
+## Screenshots
+
+### client code
+
+![Practical 4 - client code](screenshots/client_code.png)
+
+### client
+
+![Practical 4 - client](screenshots/client.png)

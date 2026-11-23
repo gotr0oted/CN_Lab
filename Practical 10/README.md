@@ -12,3 +12,9 @@ Enter up to 10 routers and a square link-cost matrix. Use 0 on the diagonal and 
 
 ## Procedure and result
 The program applies Bellman-Ford distance-vector updates and prints each destination cost and next hop. Try a small topology, then remove a link and compare routes using your own output.
+
+## Screenshots
+
+### exp10
+
+![Practical 10 - exp10](screenshots/exp10.png)

@@ -15,3 +15,9 @@ Create, bind, and listen on a stream socket at port 8080; accept a client; recei
 
 ## Result
 Run the programs locally and record your own terminal output for submission.
+
+## Screenshots
+
+### exp02
+
+![Practical 2 - exp02](screenshots/exp02.png)

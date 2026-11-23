@@ -12,3 +12,9 @@ Start Practical 2 first. The optional argument is the server IPv4 address; the d
 
 ## Procedure and result
 The client connects to port 8080, sends each line, reads the echoed bytes, then closes. Test several messages and record output from your own run.
+
+## Screenshots
+
+### client
+
+![Practical 3 - client](screenshots/client.png)
